@@ -8,7 +8,7 @@ EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 recipients = [
     
-    "santhiruler@gmail.com"
+    "bhargavi@gmail.com"
     
 ]
 message = """Subject: Test Email
